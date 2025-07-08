@@ -1,9 +1,65 @@
 body{
-  font-family: Verdana;
   text-align: center;
+  font-family: Verdana;
 }
 header, footer{
-  background-color: white;
   width: 48%;
-  padding: 2%;
+  background-color: white;
+  padding: 0.05%;
+  padding-left: 2%;
+  padding-right: 2%;
+  margin: 0px auto;
+}
+footer{
+  padding-bottom: 1%;
+}
+
+#name{
+  margin-bottom: -1%;
+}
+hr{
+  height: 2px;
+  background: black;
+}
+.links{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding-top: 0.2%;
+  background-color: #e5e5e5;
+}
+.link{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding-left: 7%;
+  padding-right: 7%;
+  width: 7%;
+  
+}
+ul{
+  text-align: left;
+}
+#maincontent-general{
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1em;
+}
+.cass{
+  display: flex;
+  flex-direction: row;
+}
+img{
+  margin: 1em;
+}
+#i1{
+  margin-top: 0px;
+}
+.left-article{
+  text-align: left;
+}
+#r-img-column{
+  width: 100%;
+  
 }
