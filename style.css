@@ -1,0 +1,10 @@
+body{
+  font-family: Verdana;
+  text-align: center;
+}
+header, footer{
+  background-color: white;
+  width: 48%;
+  padding-left: 2%;
+  padding-right: 2%;
+}
