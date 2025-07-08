@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Hope this doesn't cause any harm :)
